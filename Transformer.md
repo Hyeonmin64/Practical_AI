@@ -39,6 +39,11 @@
 -
 -
 
+[PREFERENCE TRANSFORMER: MODELING HUMAN
+PREFERENCES USING TRANSFORMERS FOR RL](https://openreview.net/pdf?id=Peot1SFDX0)
+
+-
+-
 
 
 Question) in-context learning?
