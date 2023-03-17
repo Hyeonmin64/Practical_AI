@@ -1,14 +1,14 @@
-[How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding](https://arxiv.org/abs/2303.04245)
+[How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding](https://arxiv.org/abs/2303.04245) (1)
 
 -
 -
 
-[Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846)
+[Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846) (2)
 
 -
 -
 
-[STABILIZING TRANSFORMER TRAINING BY PREVENTING ATTENTION ENTROPY COLLAPSE](https://arxiv.org/pdf/2303.06296.pdf)
+[STABILIZING TRANSFORMER TRAINING BY PREVENTING ATTENTION ENTROPY COLLAPSE](https://arxiv.org/pdf/2303.06296.pdf) (3)
 
 -
 -
@@ -24,12 +24,12 @@
 -
 
 [What Can Transformers Learn In-Context? A Case Study of Simple Function Classes
-](https://nips.cc/virtual/2022/poster/53586)
+](https://nips.cc/virtual/2022/poster/53586) (4)
 
 -
 -
 
-[What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/forum?id=0g0X4H8yN4I)
+[What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/forum?id=0g0X4H8yN4I) (5)
 
 -
 -
