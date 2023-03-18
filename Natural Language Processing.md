@@ -4,3 +4,8 @@
 -
 -
 
+[ACL 2022 Tutorial: Zero- and Few-Shot NLP with Pretrained Language Models](https://github.com/allenai/acl2022-zerofewshot-tutorial)
+
+-
+-
+
