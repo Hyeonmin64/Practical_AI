@@ -46,7 +46,7 @@
 -
 
 [Unveiling Transformers with LEGO: a synthetic reasoning task
-](https://arxiv.org/abs/2206.04301)
+](https://arxiv.org/abs/2206.04301) (8)
 
 -
 -
