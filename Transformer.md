@@ -45,6 +45,13 @@
 -
 -
 
+[Unveiling Transformers with LEGO: a synthetic reasoning task
+](https://arxiv.org/abs/2206.04301)
+
+-
+-
+
+
 
 
 [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234)
