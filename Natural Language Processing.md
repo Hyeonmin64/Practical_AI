@@ -21,3 +21,7 @@ Recent Advances and New Frontiers](https://www.kdd.org/exploration_files/19-2-Ar
 
 [Large Language Models Are Reasoning Teachers
 ](https://arxiv.org/abs/2212.10071)
+
+[Fast Convergence of Random Reshuffling under
+Over-Parameterization and the
+Polyak- Lojasiewicz Condition](https://arxiv.org/pdf/2304.00459.pdf)
