@@ -15,3 +15,9 @@ Recent Advances and New Frontiers](https://www.kdd.org/exploration_files/19-2-Ar
 
 [Nature Language Reasoning, A Survey
 ](https://arxiv.org/abs/2303.14725)
+
+[A Survey of Large Language Models
+](https://arxiv.org/abs/2303.18223)
+
+[Large Language Models Are Reasoning Teachers
+](https://arxiv.org/abs/2212.10071)
