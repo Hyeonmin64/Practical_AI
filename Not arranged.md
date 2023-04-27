@@ -91,5 +91,14 @@ A Few Low-Cost Relationships Are All You Need](https://arxiv.org/pdf/2303.15256.
 Discounted Markov Decision Processes
 ](https://arxiv.org/pdf/2302.11381.pdf)
 
+[Meet in the Middle: A New Pre-training Paradigm
+](https://arxiv.org/abs/2303.07295)
+
+[IDQL: Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies
+](https://arxiv.org/abs/2304.10573)
+
+
+
+
 
 
