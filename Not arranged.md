@@ -98,7 +98,8 @@ Discounted Markov Decision Processes
 ](https://arxiv.org/abs/2304.10573)
 
 
-
+[Confidence-Conditioned Value Functions for Offline Reinforcement Learning
+](https://arxiv.org/abs/2212.04607)
 
 
 
